@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1475539405 source:c:\users\marcelo\desktop\codigos c\tp2ultimate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1475693755 c:\users\marcelo\desktop\codigos c\tp2ultimate\functions.h
+
+1475539337 source:c:\users\marcelo\desktop\codigos c\tp2ultimate\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	<ctype.h>
+
+1476067162 source:g:\tp2ultimate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1476068364 g:\tp2ultimate\functions.h
+
+1476068450 source:g:\tp2ultimate\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	<ctype.h>
+
